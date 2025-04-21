@@ -1,6 +1,4 @@
-[
-  {
-    "name": "Sample Plugin",
-    "entry": "./plugins/sample-plugin/plugin.js"
-  }
-]
+{
+  "name": "Withyen Super Plugin",
+  "entry": "./plugins/withyen-plugin/plugin.js"
+}
