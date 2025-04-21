@@ -1,4 +1,4 @@
 {
-  "name": "Withyen Super Plugin",
+  "name": "Withyen Plugin - Main",
   "entry": "./plugins/withyen-plugin/plugin.js"
 }
